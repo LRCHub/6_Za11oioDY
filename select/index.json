@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "イグニッション（feat. ゆある、ねんね）",
+  "base_artist": "*Luna",
+  "createdAt": "2026-03-03T06:47:32.000524Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イグニッション (feat. ゆある ＆ ねんね)",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/01_イグニッション_(feat._ゆある_&_ねんね)_Luna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イグニッション",
+      "artist": "*Luna feat. ゆある , ねんね",
+      "has_synced": false,
+      "path": "select/pl_01_イグニッション_Luna_feat._ゆある_,_ねんね.txt"
+    }
+  ]
+}
